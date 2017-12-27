@@ -5,14 +5,12 @@
     <path
        d="m 69.724653,56.069439 a 12.494013,12.494013 0 1 1 -24.988025,0 12.494013,12.494013 0 1 1 24.988025,0 z"
        transform="matrix(17.928587,0,0,17.928587,-770.06452,203.09837)"
-       id="path2991"
-       style="fill:#000000" />
+       />
     <text
        x="63.081722"
        y="1260.2532"
-       id="text2993"
        xml:space="preserve"
-       style="font-size:179.28585815px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+       style="font-size:190px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;"><tspan
          x="63.081722"
          y="1260.2532"
          id="tspan2995">DEV</tspan></text>
